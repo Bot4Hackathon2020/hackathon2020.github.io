@@ -14,6 +14,13 @@ The environment is on Windows using RPGmaker mv.
 - 剧情以小见大，展现科技发展带来的“困境”
 - 主要语言为Javascript
 
+## 项目截图
+![image](https://github.com/ThreeGodAndAGreenMan/hackathon2020.github.io/blob/master/Scene1.png)
+
+![image](https://github.com/ThreeGodAndAGreenMan/hackathon2020.github.io/blob/master/Scene2.png)
+
+![image](https://github.com/ThreeGodAndAGreenMan/hackathon2020.github.io/blob/master/Scene3.png)
+
 ### 队伍成员
 杨志斌、符嗣仟、钱帅康、胡欣然
 

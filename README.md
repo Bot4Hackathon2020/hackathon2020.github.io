@@ -14,4 +14,7 @@ The environment is on Windows using RPGmaker mv.
 - 剧情以小见大，展现科技发展带来的“困境”
 - 主要语言为Javascript
 
+### 队伍成员
+杨志斌、符嗣仟、钱帅康、胡欣然
+
 Any problem can contact <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YVNUUVFTU1JTVFQhEBBPAg4M" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
